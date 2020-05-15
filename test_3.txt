@@ -1,10 +1,8 @@
 Test 3
-<<<<<<< HEAD
+
 test brch
 testing merge brch  2 
 how to do it
 
-=======
 testing brch
-testing merge brch  
->>>>>>> 508fd2df5f325ac74ef133a97729c3cbbd510d71
+testing merge brch 
